@@ -29,3 +29,9 @@
     - どこかに、みんなのYAPC::Hakodate 2024の感想その他のブログを集めたリンク集があったと思うのですが、
       もう分からなくなってしまいました;-)
     - [はてなブログでタグがYAPC::Hakodate 2024のもの](https://d.hatena.ne.jp/keyword/YAPC::Hakodate%202024)
+
+
+<hr>
+Last-Modified: 2025-04-06
+<br>
+Copyright (C) 2025 Ken'ichi Fukamachi, CC BY-NC-SA 4.0
